@@ -5,6 +5,7 @@ This is a chrome extension that allow a competitive programmer to track all the 
 - dart
 - flutter
 - html
+- API is used https://www.kontests.net/api
 
 ## Screenshots
 ![rsz_1ss3](https://user-images.githubusercontent.com/36789334/96376538-577abb00-11a1-11eb-9e73-9cdd340460ff.png)
