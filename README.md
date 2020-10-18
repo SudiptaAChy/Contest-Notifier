@@ -7,10 +7,10 @@ This is a chrome extension that allow a competitive programmer to track all the 
 - html
 
 ## Screenshots
-![rsz_ss1](https://user-images.githubusercontent.com/36789334/96376275-c2c38d80-119f-11eb-90e6-6ee38a636035.png)
-![rsz_ss2](https://user-images.githubusercontent.com/36789334/96376287-d3740380-119f-11eb-9da3-eb3a6ecea7f2.png)
-![rsz_ss3](https://user-images.githubusercontent.com/36789334/96376293-dec72f00-119f-11eb-9927-ec96f30d9981.png)
-![rsz_ss4](https://user-images.githubusercontent.com/36789334/96376305-eab2f100-119f-11eb-84a3-c4a92ee1d865.png)
+![rsz_1ss3](https://user-images.githubusercontent.com/36789334/96376538-577abb00-11a1-11eb-9e73-9cdd340460ff.png)
+![rsz_2ss1](https://user-images.githubusercontent.com/36789334/96376539-58abe800-11a1-11eb-8ded-db64a384c04f.png)
+![rsz_1ss2](https://user-images.githubusercontent.com/36789334/96376540-59447e80-11a1-11eb-8f9f-4aa1cd6d68f3.png)
+![rsz_1ss4](https://user-images.githubusercontent.com/36789334/96376541-59447e80-11a1-11eb-8a9e-024c95c1eee5.png)
 
 ## Installation Process
 - download the repo
